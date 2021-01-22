@@ -1,5 +1,5 @@
 # DiceRoller
-Hallo ini adalah app sederhana
+Hallo ini adalah app sederhana gambar random
 
 ## Fitur
 1. input gambar
